@@ -4,4 +4,3 @@
 104,Anand Ram,Developer
 105,Jane Miller,Sales Manager
 222, Andrei Nedved, XXX
-123, XXX XXX, XXX
